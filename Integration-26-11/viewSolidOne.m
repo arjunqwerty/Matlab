@@ -1,4 +1,4 @@
-function viewSolidOne(zvar, F, G, xvar, f, g, yvar, a, b)
+function viewSolid(zvar, F, G, xvar, f, g, yvar, a, b)
 %VIEWSOLID is a version for MATLAB of the routine on page 161
 %  of "Multivariable Calculus and Mathematica" for viewing the region
 %  bounded by two surfaces for the purpose of setting up triple integrals. 
